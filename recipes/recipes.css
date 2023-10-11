@@ -1,0 +1,16 @@
+body {
+    background-color: #fdf6e3;
+    color: #657b83;
+}
+
+h1 {
+    color: #586e75;
+}
+
+.ingredients li {
+    font-weight: bold;
+}
+
+li {
+    margin: 10px 0;
+}
