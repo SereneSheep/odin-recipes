@@ -1,6 +1,7 @@
 body {
     background-color: #fdf6e3;
     color: #657b83;
+    font-family: 'Garamond', 'Georgia', serif;
 }
 
 h1 {
@@ -8,6 +9,3 @@ h1 {
     font-weight: bold;
 }
 
-.ingredients {
-    font-weight: bold;
-}
